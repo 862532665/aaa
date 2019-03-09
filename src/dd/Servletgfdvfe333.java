@@ -13,7 +13,9 @@ import java.io.IOException;
  */
 public class Servletgfdvfe333 extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println(1);
+        System.out.println(12);
+        System.out.println(12);
+        System.out.println(12);
 
 
 
